@@ -5,7 +5,6 @@
 <!-- =========================
       Hrudaya Sagar | GitHub Profile README
      ========================= -->
-
 <p align="center">
   <picture>
     <source
@@ -32,10 +31,7 @@
     alt="Typing SVG"
   />
 </p>
-
 <br/>
-
-
 
 <!-- ========================= ABOUT ME ========================= -->
 
