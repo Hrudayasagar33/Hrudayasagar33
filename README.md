@@ -90,14 +90,14 @@ I'm **Hrudaya Sagar**, a passionate **B.Tech Computer Science Engineering studen
 
 <!-- ========================= TECH STACK ========================= -->
 
-<h2 align="center">💗 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode,linux,windows&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode,linux&theme=light" alt="Tech Stack" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bootstrap,nodejs,react&theme=light" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=c,nodejs,react&theme=light" alt="Currently Learning" />
 </p>
 
 <br/>
