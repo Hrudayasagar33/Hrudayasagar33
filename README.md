@@ -47,13 +47,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=EF93C4&labelColor=2D1B26" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&color=FF69B4&labelColor=2D1B26" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&style=for-the-badge&color=EF93C4" alt="Profile Views" />
-</p>
 
-<br/>
 
 <!-- ========================= ABOUT ME ========================= -->
 
