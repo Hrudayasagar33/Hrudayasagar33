@@ -70,41 +70,14 @@ I'm **Hrudaya Sagar**, a passionate **B.Tech Computer Science Engineering studen
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <strong>Core Languages & Tools:</strong>
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode,linux&theme=light" alt="Tech Stack" />
 </p>
 
 <p align="center">
-  <strong>Currently Learning:</strong>
   <img src="https://skillicons.dev/icons?i=c,nodejs,react&theme=light" alt="Currently Learning" />
 </p>
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>Java</strong></td>
-      <td align="center"><strong>Python</strong></td>
-      <td align="center"><strong>HTML</strong></td>
-      <td align="center"><strong>CSS</strong></td>
-      <td align="center"><strong>JavaScript</strong></td>
-      <td align="center"><strong>MySQL</strong></td>
-      <td align="center"><strong>Git</strong></td>
-      <td align="center"><strong>GitHub</strong></td>
-      <td align="center"><strong>VS Code</strong></td>
-      <td align="center"><strong>Linux</strong></td>
-    </tr>
-  </table>
-</p>
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>C</strong></td>
-      <td align="center"><strong>Node.js</strong></td>
-      <td align="center"><strong>React</strong></td>
-    </tr>
-  </table>
-</p>
 <br/>
 
 <!-- ========================= CURRENTLY FOCUSING ========================= -->
